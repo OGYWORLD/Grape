@@ -72,7 +72,7 @@ function Create(){
             <b style={{fontSize: "15px", marginTop: "168px", marginLeft: "33px", position:"absolute"}}>3</b>
 
             {/*주간 랭킹 1위*/}
-            <Link to="/KNU-DBP-Grape/mio">
+            <Link to="/Grape/mio">
             <Tooltip title="미오 프라텔로 (드림아트센터 1관)">
             <img src={mio} style={{height: "300px", marginLeft: "80px", marginTop: "40px", position:"absolute"}}/>
             </Tooltip>

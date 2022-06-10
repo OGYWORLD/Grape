@@ -81,7 +81,7 @@ function Login(){
             title: -1,
             userLevel: 1,
         }).then(function(response){
-            window.location.href = "http://localhost:3000/KNU-DBP-Grape";
+            window.location.href = "https://ogyworld.github.io/Grape";
         });
         } catch (e) {
         setError(e);
@@ -108,7 +108,7 @@ function Login(){
                     seat: users[i].seat,
                     userLevel: 1,
         }).then(function(response){
-            window.location.href = "http://localhost:3000/KNU-DBP-Grape";
+            window.location.href = "https://ogyworld.github.io/Grape";
         });
         setLogin(1);
             }
@@ -125,17 +125,17 @@ function Login(){
     return(
         <div>
             <div className = "body">
-            <Link to="/KNU-DBP-Grape"><img src = {logo} style = {{width: "187.5px", height: "75px", marginTop: "25px", position:"absolute", }}/></Link>
+            <Link to="/Grape"><img src = {logo} style = {{width: "187.5px", height: "75px", marginTop: "25px", position:"absolute", }}/></Link>
                 <Input className="input" style = {{width: "700px", height: "20px", marginTop: "55px", marginLeft: "210px", position:"absolute", fontSize: "20px", borderColor: "#5A4968"
             , borderWidth: "0 0 2px", outline: "0"}}/>
-                <Link to="/KNU-DBP-Grape/login"><b style={{fontSize: "15px", marginLeft: "950px", marginTop: "55px", position:"absolute", color: "black"}}> 로그인 </b></Link>
+                <Link to="/Grape/login"><b style={{fontSize: "15px", marginLeft: "950px", marginTop: "55px", position:"absolute", color: "black"}}> 로그인 </b></Link>
                 <b style={{fontSize: "15px", marginLeft: "1015px", marginTop: "54px", position:"absolute",}}>|</b>
-                <Link to="/KNU-DBP-Grape/new"><b style={{fontSize: "15px", marginLeft: "1030px", marginTop: "55px", position:"absolute", color: "black"}}> 회원가입 </b></Link>
+                <Link to="/Grape/new"><b style={{fontSize: "15px", marginLeft: "1030px", marginTop: "55px", position:"absolute", color: "black"}}> 회원가입 </b></Link>
                 <br/><br/><br/><br/><br/>
 
                 <Menu mode="horizontal" style={{width: "1140px", borderColor: "#DADADA",  borderWidth: "0 0 4px", fontFamily: "HSSSaemaul", fontSize: "17px", color: "#626262"}}
                 onClick={handleChange} >
-                    <Link to="/KNU-DBP-Grape">
+                    <Link to="/Grape">
                     <Menu.Item key="create" icon={<LayoutOutlined />} style={{marginLeft:"50px", marginRight: "120px", borderWidth: "0 0 4px", color: "#626262"}}>
                     창작 뮤지컬
                     </Menu.Item>

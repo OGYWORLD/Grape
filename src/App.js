@@ -47,12 +47,12 @@ function App() {
   return(
     <>
       <Routes>
-        <Route path="/KNU-DBP-Grape" exact={true} element={<Homepage />} />
-        <Route path="/KNU-DBP-Grape/login" element={<Login />} />
-        <Route path="/KNU-DBP-Grape/new" element={<New />} />
-        <Route path="/KNU-DBP-Grape/mio" element={<Mio />} />
-        <Route path="/KNU-DBP-Grape/newFin" element={< FinNew/>} />
-        <Route path="/KNU-DBP-Grape/mypage" element={<MyPage/>} />
+        <Route path="/Grape" exact={true} element={<Homepage />} />
+        <Route path="/Grape/login" element={<Login />} />
+        <Route path="/Grape/new" element={<New />} />
+        <Route path="/Grape/mio" element={<Mio />} />
+        <Route path="/Grape/newFin" element={< FinNew/>} />
+        <Route path="/Grape/mypage" element={<MyPage/>} />
       </Routes>
     </>
   );
