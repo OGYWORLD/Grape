@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Grape/static/css/main.937298bc.css",
+    "main.js": "/Grape/static/js/main.402575b3.js",
+    "static/js/787.cda612ba.chunk.js": "/Grape/static/js/787.cda612ba.chunk.js",
+    "static/media/LeferiBaseBold.ttf": "/Grape/static/media/LeferiBaseBold.c840b4ebf33a48be5eac.ttf",
+    "static/media/sale_nansae.jpg": "/Grape/static/media/sale_nansae.541bea9e7492242ee9eb.jpg",
+    "static/media/sale_bisue.jpg": "/Grape/static/media/sale_bisue.b91c475ed61425800bf9.jpg",
+    "static/media/mio_cast.jpg": "/Grape/static/media/mio_cast.73100664143c7dfa2096.jpg",
+    "static/media/mio_sale2.jpg": "/Grape/static/media/mio_sale2.63cf8ee4907842bf06dd.jpg",
+    "static/media/mio_notice1.jpg": "/Grape/static/media/mio_notice1.b2b6300562908560957b.jpg",
+    "static/media/mio_sale3.jpg": "/Grape/static/media/mio_sale3.3120d591754c63da7c0b.jpg",
+    "static/media/mio_sale5.jpg": "/Grape/static/media/mio_sale5.7c02f54df63a24e4d8bf.jpg",
+    "static/media/ban.jpg": "/Grape/static/media/ban.2218a133ba2bf1e7e6d0.jpg",
+    "static/media/mio_notice2.jpg": "/Grape/static/media/mio_notice2.2454dd1ad14b35cf7cb3.jpg",
+    "static/media/mio_sale4.jpg": "/Grape/static/media/mio_sale4.fbd508a92fa728c5f993.jpg",
+    "static/media/sale.jpg": "/Grape/static/media/sale.8b4a04c81357567cf2af.jpg",
+    "static/media/stone.png": "/Grape/static/media/stone.bb7735b1116b5110de54.png",
+    "static/media/death.PNG": "/Grape/static/media/death.7644d885bc48d97688c9.PNG",
+    "static/media/ed.PNG": "/Grape/static/media/ed.591331235fca32f628bc.PNG",
+    "static/media/ad.PNG": "/Grape/static/media/ad.3da021793de4e47015f4.PNG",
+    "static/media/Final_carousel.png": "/Grape/static/media/Final_carousel.93ffc99bd4fdd416df1a.png",
+    "static/media/mia.PNG": "/Grape/static/media/mia.7995beb64141c303cc6b.PNG",
+    "static/media/miaF.png": "/Grape/static/media/miaF.4f0307e9270d2795f343.png",
+    "static/media/glow.gif": "/Grape/static/media/glow.83960b88b0318db23a08.gif",
+    "static/media/van.jpg": "/Grape/static/media/van.a2e5311ba6b71f85e0f6.jpg",
+    "static/media/gloomy.png": "/Grape/static/media/gloomy.723b276d795721816536.png",
+    "static/media/mio_sale1.jpg": "/Grape/static/media/mio_sale1.841e05b29dbc5d01a505.jpg",
+    "static/media/Yujin.jpg": "/Grape/static/media/Yujin.df04b2a4db7d3d03fb5a.jpg",
+    "static/media/bunge.jpg": "/Grape/static/media/bunge.96fad150bbad820da207.jpg",
+    "static/media/ad.jpg": "/Grape/static/media/ad.ba2ef29f42ac3d070870.jpg",
+    "static/media/logo.svg": "/Grape/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Grape/index.html",
+    "main.937298bc.css.map": "/Grape/static/css/main.937298bc.css.map",
+    "main.402575b3.js.map": "/Grape/static/js/main.402575b3.js.map",
+    "787.cda612ba.chunk.js.map": "/Grape/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937298bc.css",
+    "static/js/main.402575b3.js"
+  ]
+}
